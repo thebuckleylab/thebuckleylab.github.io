@@ -18,3 +18,5 @@ The paper examines Predictive coding (PC) as a brain-inspired algorithm that has
 This work lays a foundation for understanding PC in deep and wide networks.
 
 The <a href="https://sites.google.com/view/localized-learning-workshop">ICML Localized Learning Workshop</a> aims to overcome the limitations of global end-to-end learning, delving into the fundamentals of localized learning, which is broadly defined as any training method that updates model parts through non-global objectives.
+
+For more information, see this <a href="https://francescoinnocenti.github.io/posts/2023/08/10/PC-as-a-2nd-Order-Method/">blog post</a>. 
