@@ -10,12 +10,9 @@ Francesco Innocenti's submission for the <a href="https://sites.google.com/view/
 
 ***
 
-<div class="row mt-3">
-    <div class="col-sm mt-3 mt-md-0">
+<div class="row mt-6">
+    <div class="col-sm mt-6 mt-md-0">
         {% include figure.html path="assets/img/pc_trust_region_toy.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/7.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
