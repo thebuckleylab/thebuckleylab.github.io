@@ -1,81 +1,40 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+title: METATOOL
+description: A computational metapredictive model of cognition for enabling tool invention in robots
+img: assets/img/metatool-project-logo.png
 importance: 2
-category: work
-giscus_comments: true
+category: current
+related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="assets/img/metatool-project-main.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-2 mt-md-0">
+        {% include figure.html path="assets/img/metatool-eic-logo.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+  The <a href="https://www.metatool-project.eu/">METATOOL</a> Project is led by the Universidad Politécnica De Madrid funded by the European Innovation Council of the EU. The project aims to provide a computational model of the process of tool invention.
 </div>
 
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+The ability to invent new tools has been identified as an important facet of our ability as a species to problem solve in dynamic and novel environments. While the use of tools by artificial agents presents a challenging task and has been widely identified as a key goal in the field of autonomous robotics, far less research has tackled the invention of new tools by agents. Importantly, targeting the skilled task of tool creation permits us to study embodied cognition from a pragmatic, incremental and purposeful perspective.
 
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+In order to solve the inverse problem of imagining a new tool from the desired effect or goal, we need to provide AI systems with action abstraction, such that they can generate new hypotheses from learned representations. The metacognitive approach to cognition and computational models based on the predictive brain hypothesis such as active inference, give us a first-principle mathematical approach to deploy innovation skills in robots.
+
+Objectives:
+
+We particularly focus on the development of a computational model that enables an artificial agent to go from tool use to tool invention. The general aim will be achieved by addressing three specific objectives:
+1. To study the consistency of metacognitive capabilities as a facilitator for the emergence of tool making from the perspectives of computational neuroscience. The working hypothesis is that monitoring the uncertainty in a predictive system facilitates cognitive offloading, i.e., to transform complicated outcomes into external novel tools.
+2. To develop a computational model of tool invention based on the active inference account of perception and action.
+3. To validate this approach on embodied artificial agents. We evaluate the model in AI-
+based simulated and robotic systems in two use cases: conditional task problem solving under uncertainty and tool invention.
+
+<a href="https://www.metatool-project.eu/">METATOOL</a> aims to provide a blueprint for the next generation of artificial systems and robots that can perform adaptive, and anticipative, control with and without tools (improved technology), self-evaluation (novel explainable AI) and invent new tools (disruptive innovation). Tool creation and tool invention are outstanding technological milestones in human history. A similar breakthrough can now be envisioned in engineering.
+
+To read more about the project, see <a href="https://www.metatool-project.eu/">here</a>.
