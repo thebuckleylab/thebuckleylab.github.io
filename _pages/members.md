@@ -81,8 +81,10 @@ PhD opportunities in our lab are available through two different doctoral progra
       <p>PhD Student</p>
       <p>Email: <a href = "mailto: f.innocenti@sussex.ac.uk"> f.innocenti@sussex.ac.uk</a></p>
       <p><a href="https://scholar.google.co.uk/citations?hl=en&user=t6Sq56EAAAAJ">Google Scholar</a></p>
+      <p><a href="https://francescoinnocenti.github.io/">Personal website</a></p>
     </div>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet dui lorem. Donec sollicitudin, nibh non rutrum suscipit, dui odio imperdiet erat, non porta purus tortor id eros. Nam laoreet justo quis felis molestie pulvinar. In hendrerit aliquet dignissim. Etiam venenatis libero nibh, et sodales purus consectetur sed. Integer dui dui, semper id dictum sed, dictum a dolor. Aliquam ultricies eleifend vehicula. Nunc dignissim convallis tortor, sed varius augue rhoncus a. Nullam malesuada rhoncus commodo. Phasellus vestibulum lorem nibh, id bibendum magna efficitur ac.</p>
+      <p>Francesco completed a BSc in Psychology and Cognitive Neuroscience with the highest performance at Goldsmiths, University of London. Dissatisfied with existing theory in these fields, he is now pursuing a PhD at the intersection between Computational Neuroscience and Machine Learning, focusing on brain-inspired learning algorithms and deep learning theory.
+</p>
 </div>
 
 <div style="background-color: #FFF; padding: 1em;">
