@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Francesco Innocenti presents best paper for ICML Workshop on Localized Learning (LLW)
-date: 2015-11-07 16:11:00-0400
+date: 2023-07-29 16:11:00-0400
 inline: false
 related_posts: false
 ---
