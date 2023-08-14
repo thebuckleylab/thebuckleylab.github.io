@@ -6,7 +6,17 @@ inline: false
 related_posts: false
 ---
 
+<div class="row mt-6">
+    <div class="col-sm mt-6 mt-md-0">
+        {% include figure.html path="assets/img/pc_trust_region_toy.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The theory suggests that PC should escape saddle points faster than BP.
+</div>
+
 Francesco Innocenti's submission for the <a href="https://sites.google.com/view/localized-learning-workshop">ICML 2023 Workshop on Localized Learning (LLW)</a> won 'best contributed paper'. He presented the paper <a href="https://arxiv.org/abs/2305.18188">'Understanding Predictive Coding as a Second-Order Trust-Region Method'</a>, written with Ryan Singh and Christopher Buckley, at the workshop in Hawai this week.
+
 
 ***
 
@@ -17,14 +27,7 @@ The paper examines Predictive coding (PC) as a brain-inspired algorithm that has
 
 This work lays a foundation for understanding PC in deep and wide networks. 
 
-<div class="row mt-6">
-    <div class="col-sm mt-6 mt-md-0">
-        {% include figure.html path="assets/img/pc_trust_region_toy.png" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    The theory suggests that PC should escape saddle points faster than BP.
-</div>
+
 
 The <a href="https://sites.google.com/view/localized-learning-workshop">ICML Localized Learning Workshop</a> aims to overcome the limitations of global end-to-end learning, delving into the fundamentals of localized learning, which is broadly defined as any training method that updates model parts through non-global objectives.
 
