@@ -13,7 +13,7 @@ Francesco Innocenti's submission for the <a href="https://sites.google.com/view/
 
 The paper examines Predictive coding (PC) as a brain-inspired algorithm that has recently been suggested to provide advantages over backpropagation (BP) in biologically relevant scenarios. While theoretical work has mainly focused on showing how PC can approximate BP in various limits, the putative benefits of "natural" PC are less understood. The paper develop a theory of PC as an adaptive trust-region (TR) algorithm that uses second-order information. This work shows that the learning dynamics of PC can be interpreted as interpolating between BP's loss gradient direction and a TR direction found by the PC inference dynamics. 
 
->  Our theory suggests that PC should escape saddle points faster than BP, a prediction which we prove in a shallow linear model and support with experiments on deeper networks.y. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
+>  Our theory suggests that PC should escape saddle points faster than BP, a prediction which we prove in a shallow linear model and support with experiments on deeper networks.
 > —Francesco innocenti
 
 This work lays a foundation for understanding PC in deep and wide networks. 
