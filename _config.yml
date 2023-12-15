@@ -8,14 +8,13 @@ middle_name:
 last_name: 
 email: C.L.Buckley@sussex.ac.uk 
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Academic website for research lab.
+  Website for Informatics research lab at the University of Sussex.
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
+keywords: research-lab, university-of-sussex, academic-website, engineering-and-informatics, variational-inference, predictive-coding, active-inference  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: /assets/img/lab-photo-ghent.jpg #⚛️ the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: ⚛️ #/assets/img/bayesain-inference-profile.ico # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://thebuckleylab.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/

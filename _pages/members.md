@@ -9,7 +9,7 @@ nav_order: 5
 
 PhD opportunities in our lab are available through two different doctoral programmes. Click <a href="https://www.sussex.ac.uk/ccnr/be_ai">here</a> to find out more.
 
-<div style="background-color: #EBEBEB; padding: 1em;" class="row justify-content-sm-left">
+<div style="padding: 1em;" class="row justify-content-sm-left">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/chris_profile.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -22,10 +22,10 @@ PhD opportunities in our lab are available through two different doctoral progra
     <p>Christopher L.  Buckley graduated with a First Class Master of Physics from the University of Edinburgh in 2000 and then went on to study for an MSc in Evolutionary and Adaptive Systems at the University of Sussex in 2001. After several year's in the computer games industry, he returned to academia and completed his doctoral studies in cognitive robotics at the University of Southampton in 2008.  Following a postdoctoral position at the Riken Brain Science Institute in Tokyo, he returned to the University of Sussex as a lecturer in neural computation in 2014 and was promoted to senior lecturer in 2018 and to Professor of Neural Computation in 2022.</p>
 </div>
 
-<div style="background-color: #FFF; padding: 1em;">
+<div style="padding: 1em;">
 </div>
 
-<div style="background-color: #EBEBEB; padding: 1em;" class="row justify-content-sm-left">
+<div style="padding: 1em;" class="row justify-content-sm-left">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/paul-kinghorn-profile.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -38,10 +38,10 @@ PhD opportunities in our lab are available through two different doctoral progra
     <p>Paul Kinghorn graduated with a First Class B.Sc. (Mathematics) from the University of Glasgow in 1988.  After 30 years working in Finance, he returned to academia and studied for an M.Sc. in Intelligent and Adaptive Systems at the University of Sussex, graduating with Distinction in 2019.  He then began a Ph.D. funded by the Sussex 4 year Neuroscience Ph.D. program, with a focus on computational neuroscience and, in particular, predictive coding. He is due to complete his doctoral studies in summer 2024. He is currently funded as a research fellow by UKRI Horizon Europe as part of the MetaTool project, with a focus on how Active Inference can explain metacognitive aspects (i.e. "awareness") of intelligent decision making in animals and machines.</p>
 </div>
 
-<div style="background-color: #FFF; padding: 1em;">
+<div style="padding: 1em;">
 </div>
 
-<div style="background-color: #EBEBEB; padding: 1em;" class="row justify-content-sm-left">
+<div style="padding: 1em;" class="row justify-content-sm-left">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/miguel-de-llanza-varona-profile.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -53,10 +53,10 @@ PhD opportunities in our lab are available through two different doctoral progra
     <p>Miguel graduated from the Universitat de Barcelona in 2019 with a Master's degree in Cognitive Science and Language. His PhD research involves working on the Free Energy Principle and Predictive Coding. He is also interested the role of latent representations from an Information Theory and (embodied) Philosophy perspective. His research is funded by Verses AI.</p>
 </div>
 
-<div style="background-color: #FFF; padding: 1em;">
+<div style="padding: 1em;">
 </div>
 
-<div style="background-color: #EBEBEB; padding: 1em;" class="row justify-content-sm-left">
+<div style="padding: 1em;" class="row justify-content-sm-left">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/poppy-collis-profile.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -69,10 +69,10 @@ PhD opportunities in our lab are available through two different doctoral progra
     <p>With a background in Neuroscience and Cognitive Science (BSc), Poppy Collis graduated with distinction from a Masters in Artificial Intelligence and Adaptive Systems at the University of Sussex in 2022. Her PhD is funded by UKRI Horizon Europe as part of the MetaTool project led by the Universidad Politécnica De Madrid, which aims to develop a computational model of tool invention in autonomous robotic systems. Her research looks at methods which use approximate Bayesian inference to describe intelligent decision-making in cognitive agents.</p>
 </div>
 
-<div style="background-color: #FFF; padding: 1em;">
+<div style="padding: 1em;">
 </div>
 
-<div style="background-color: #EBEBEB; padding: 1em;" class="row justify-content-sm-left">
+<div style="padding: 1em;" class="row justify-content-sm-left">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/francesco-innocenti-profile.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -87,10 +87,10 @@ PhD opportunities in our lab are available through two different doctoral progra
 </p>
 </div>
 
-<div style="background-color: #FFF; padding: 1em;">
+<div style="padding: 1em;">
 </div>
 
-<div style="background-color: #EBEBEB; padding: 1em;" class="row justify-content-sm-left">
+<div style="padding: 1em;" class="row justify-content-sm-left">
     <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.html path="assets/img/ryan-singh-profile.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
@@ -104,5 +104,5 @@ PhD opportunities in our lab are available through two different doctoral progra
       <p>Ryan graduated from the University of Oxford in 2019 with a Master's degree in Mathematics. His PhD is concerned with modelling intelligence in human minds and machines through the lens of Bayesian inference, Predictive Coding, Active Inference and the Free Energy Principle. He also works part-time for Mathlabs as an AI reserch scientist. </p>
 </div>
 
-<div style="background-color: #FFF; padding: 1em;">
+<div style="padding: 1em;">
 </div>
