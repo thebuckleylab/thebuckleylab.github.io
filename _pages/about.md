@@ -6,7 +6,7 @@ subtitle: <p><i>School of Engineering & Informatics (University of Sussex)</i></
 
 profile:
   align: right
-  image: bayesian-inference-profile.png 
+  image: lab-photo-ghent.jpg
   image_circular: false # crops the image to make it circular
   address: 
 
@@ -15,7 +15,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+ 
+Our research primarily revolves around the principles of control and optimisation in neural processing, exploring how these concepts are manifested in both biological and artificial systems. In particular, we study variational Bayesian methods in the context of control problems. Theories such as active inference provide rich descriptions of belief-based reasoning and a principled account of adaptive behaviour under uncertainty in terms of probabilistic inference.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet dui lorem. Donec sollicitudin, nibh non rutrum suscipit, dui odio imperdiet erat, non porta purus tortor id eros. Nam laoreet justo quis felis molestie pulvinar. In hendrerit aliquet dignissim. Etiam venenatis libero nibh, et sodales purus consectetur sed. Integer dui dui, semper id dictum sed, dictum a dolor.
-
-Aliquam ultricies eleifend vehicula. Nunc dignissim convallis tortor, sed varius augue rhoncus a. Nullam malesuada rhoncus commodo.
+Central to our work is the investigation of local learning processes, seeking to bridge the gap between theoretical neuroscience and practical machine learning applications. We focus on developing computational models that encapsulate these dynamics, aiming to provide deeper insights into both the neural basis of learning and the development of more efficient artificial intelligence algorithms.

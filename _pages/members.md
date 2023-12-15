@@ -50,7 +50,7 @@ PhD opportunities in our lab are available through two different doctoral progra
       <p>PhD Student</p>
       <p>Email: <a href = "mailto: m.de-llanza-varona@sussex.ac.uk"> m.de-llanza-varona@sussex.ac.uk</a></p>
     </div>
-    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet dui lorem. Donec sollicitudin, nibh non rutrum suscipit, dui odio imperdiet erat, non porta purus tortor id eros. Nam laoreet justo quis felis molestie pulvinar. In hendrerit aliquet dignissim. Etiam venenatis libero nibh, et sodales purus consectetur sed. Integer dui dui, semper id dictum sed, dictum a dolor. Aliquam ultricies eleifend vehicula. Nunc dignissim convallis tortor, sed varius augue rhoncus a. Nullam malesuada rhoncus commodo. Phasellus vestibulum lorem nibh, id bibendum magna efficitur ac.</p>
+    <p>Miguel graduated from the Universitat de Barcelona in 2019 with a Master's degree in Cognitive Science and Language. His PhD research involves working on the Free Energy Principle and Predictive Coding. He is also interested the role of latent representations from an Information Theory and (embodied) Philosophy perspective. His research is funded by Verses AI.</p>
 </div>
 
 <div style="background-color: #FFF; padding: 1em;">
@@ -101,7 +101,7 @@ PhD opportunities in our lab are available through two different doctoral progra
       <p><a href="https://scholar.google.co.uk/citations?hl=en&user=Ukqus4oAAAAJ">Google Scholar</a></p>
 
     </div>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut sit amet dui lorem. Donec sollicitudin, nibh non rutrum suscipit, dui odio imperdiet erat, non porta purus tortor id eros. Nam laoreet justo quis felis molestie pulvinar. In hendrerit aliquet dignissim. Etiam venenatis libero nibh, et sodales purus consectetur sed. Integer dui dui, semper id dictum sed, dictum a dolor. Aliquam ultricies eleifend vehicula. Nunc dignissim convallis tortor, sed varius augue rhoncus a. Nullam malesuada rhoncus commodo. Phasellus vestibulum lorem nibh, id bibendum magna efficitur ac.</p>
+      <p>Ryan graduated from the University of Oxford in 2019 with a Master's degree in Mathematics. His PhD is concerned with modelling intelligence in human minds and machines through the lens of Bayesian inference, Predictive Coding, Active Inference and the Free Energy Principle. He also works part-time for Mathlabs as an AI reserch scientist. </p>
 </div>
 
 <div style="background-color: #FFF; padding: 1em;">
