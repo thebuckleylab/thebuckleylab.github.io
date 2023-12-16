@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p><i>Inference and Control in Animals and Machines</i></p>
+subtitle: <p><b>Inference and Control in Animals and Machines</b></p>
 
 profile:
   align: right
@@ -20,4 +20,13 @@ Our research primarily revolves around the principles of control and optimisatio
 
 Central to our work is the investigation of local learning processes, seeking to bridge the gap between theoretical neuroscience and practical machine learning applications. We focus on developing computational models that encapsulate these dynamics, aiming to provide deeper insights into both the neural basis of learning and the development of more efficient artificial intelligence algorithms.
 
-<img src="../assets/img/uni_of_sussex_logo.png" alt="My Image" width="100" height="100">
+<img src="../assets/img/uni_of_sussex_logo.png" alt="My Image"  width="100" height="100" style="float: left; margin-right: 10px;">
+
+<i>School of Engineering & Informatics</i>
+
+<i>University of Sussex</i>
+
+<a href="https://twitter.com/enginfsussex"><img src="../assets/img/x-twitter.svg" alt="Twitter"></a>
+
+
+

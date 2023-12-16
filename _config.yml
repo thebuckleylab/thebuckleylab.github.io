@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: <b>ICAM Lab</b> # the website title (if blank, full name will be used instead)
+title: ICAM Lab # the website title (if blank, full name will be used instead)
 first_name: Inference and Control in Animals and Machines
 middle_name: 
 last_name: 
