@@ -1,7 +1,9 @@
 /*******************************************************************************
  * Themes
  ******************************************************************************/
- :root {
+
+:root {
+  
   --global-bg-color: #{$grey-color-dark};
   --global-code-bg-color: #{$code-bg-color-dark};
   --global-text-color: #{$grey-color-light};
@@ -46,8 +48,9 @@
   }
 }
 
- 
- html[data-theme='light'] {
+
+
+html[data-theme='light'] {
   --global-bg-color: #{$white-color};
   --global-code-bg-color: #{$code-bg-color-light};
   --global-text-color: #{$black-color};
