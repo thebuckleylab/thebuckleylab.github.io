@@ -26,7 +26,6 @@ Central to our work is the investigation of local learning processes, seeking to
 
 <i>University of Sussex</i>
 
-<a href="https://twitter.com/enginfsussex"><img src="../assets/img/x-twitter.svg" alt="Twitter"></a>
-
+<a href="https://twitter.com/enginfsussex"><img src="../assets/img/x-twitter.svg" alt="Twitter"></a> &nbsp;&nbsp;<a href="https://twitter.com/enginfsussex"><i class="fas fa-envelope" style="color: var(--global-theme-color)"></i></a>
 
 
