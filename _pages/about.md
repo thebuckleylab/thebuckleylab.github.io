@@ -16,16 +16,14 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Our research primarily revolves around the principles of control and optimisation in neural processing, exploring how these concepts are manifested in both biological and artificial systems. In particular, we study variational Bayesian methods in the context of control problems. Theories such as active inference provide rich descriptions of belief-based reasoning and a principled account of adaptive behaviour under uncertainty in terms of probabilistic inference.
+<img src="../assets/img/uni_of_sussex_logo.png" alt="My Image"  width="80" height="80" style="float: left; margin-right: 10px;">
 
-Central to our work is the investigation of local learning processes, seeking to bridge the gap between theoretical neuroscience and practical machine learning applications. We focus on developing computational models that encapsulate these dynamics, aiming to provide deeper insights into both the neural basis of learning and the development of more efficient artificial intelligence algorithms.
-
-<img src="../assets/img/uni_of_sussex_logo.png" alt="My Image"  width="100" height="100" style="float: left; margin-right: 10px;">
+<i>PI: Prof. Christopher Buckley</i>
 
 <i>School of Engineering & Informatics</i>
 
-<i>University of Sussex</i>
+Our research primarily revolves around the principles of control and optimisation in neural processing, exploring how these concepts are manifested in both biological and artificial systems. In particular, we study variational Bayesian methods in the context of control problems. For example, theories such as active inference can provide principled accounts of adaptive behaviour in terms of probabilistic inference.
 
-<a href="https://twitter.com/enginfsussex"><img src="../assets/img/x-twitter.svg" alt="Twitter"></a> &nbsp;&nbsp;<a href="https://twitter.com/enginfsussex"><i class="fas fa-envelope" style="color: var(--global-theme-color)"></i></a>
+Central to our work is the investigation of local learning processes, seeking to bridge the gap between theoretical neuroscience and practical machine learning applications. We focus on developing computational models that encapsulate these dynamics, aiming to provide deeper insights into both the neural basis of learning and the development of more efficient artificial intelligence algorithms.
 
 
