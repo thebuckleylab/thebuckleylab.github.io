@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Ryan Singh's paper <i>Attention as Implicit Structural Inference</i> accepted for NeurIPS 2023.
+title: Ryan Singh's paper 'Attention as Implicit Structural Inference' accepted for NeurIPS 2023.
 date: 2023-10-27 16:11:00-0400
 inline: false
 related_posts: false
