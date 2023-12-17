@@ -30,7 +30,7 @@ PhD opportunities in our lab are available through two different doctoral progra
         {% include figure.html path="assets/img/paul-kinghorn-profile.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div>
-      <p><b><a href="https://profiles.sussex.ac.uk/p108674-christopher-buckley/about">Paul Kinghorn</a></b></p>
+      <p><b>Paul Kinghorn</b></p>
       <p>Post Doctoral Fellow</p>
       <p>Email:<a href = "mailto:  p.kinghorn@sussex.ac.uk"> p.kinghorn@sussex.ac.uk</a></p>
       <p><a href="https://scholar.google.co.uk/citations?hl=en&user=j6KSdDcAAAAJ">Google Scholar</a></p>
@@ -46,7 +46,7 @@ PhD opportunities in our lab are available through two different doctoral progra
         {% include figure.html path="assets/img/miguel-de-llanza-varona-profile.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div>
-      <p><b><a href="https://profiles.sussex.ac.uk/p108674-christopher-buckley/about">Miguel de Llanza Varona</a></b></p>
+      <p><b>Miguel de Llanza Varona</b></p>
       <p>PhD Student</p>
       <p>Email: <a href = "mailto: m.de-llanza-varona@sussex.ac.uk"> m.de-llanza-varona@sussex.ac.uk</a></p>
     </div>
@@ -61,7 +61,7 @@ PhD opportunities in our lab are available through two different doctoral progra
         {% include figure.html path="assets/img/poppy-collis-profile.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div>
-      <p><b><a href="https://profiles.sussex.ac.uk/p108674-christopher-buckley/about">Poppy Collis</a></b></p>
+      <p><b>Poppy Collis</b></p>
       <p>PhD Student</p>
       <p>Email: <a href = "mailto: pzc20@sussex.ac.uk"> pzc20@sussex.ac.uk</a></p>
       <p><a href="https://scholar.google.co.uk/citations?hl=en&user=mXPjaYYAAAAJ">Google Scholar</a></p>
@@ -77,7 +77,7 @@ PhD opportunities in our lab are available through two different doctoral progra
         {% include figure.html path="assets/img/francesco-innocenti-profile.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div>
-      <p><b><a href="https://profiles.sussex.ac.uk/p108674-christopher-buckley/about">Francesco Innocenti</a></b></p>
+      <p><b>Francesco Innocenti</b></p>
       <p>PhD Student</p>
       <p>Email: <a href = "mailto: f.innocenti@sussex.ac.uk"> f.innocenti@sussex.ac.uk</a></p>
       <p><a href="https://scholar.google.co.uk/citations?hl=en&user=t6Sq56EAAAAJ">Google Scholar</a></p>
@@ -95,7 +95,7 @@ PhD opportunities in our lab are available through two different doctoral progra
         {% include figure.html path="assets/img/ryan-singh-profile.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div>
-      <p><b><a href="https://profiles.sussex.ac.uk/p108674-christopher-buckley/about">Ryan Singh</a></b></p>
+      <p><b>Ryan Singh</b></p>
       <p>PhD Student</p>
       <p>Email: <a href = "mailto: rs773@sussex.ac.uk"> rs773@sussex.ac.uk</a></p>
       <p><a href="https://scholar.google.co.uk/citations?hl=en&user=Ukqus4oAAAAJ">Google Scholar</a></p>
