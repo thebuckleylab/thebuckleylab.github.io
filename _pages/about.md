@@ -20,7 +20,7 @@ social: true  # includes social icons at the bottom of the page
 
 <i>PI: Prof. Christopher L. Buckley</i>
 
-<i>School of Engineering & Informatics</i>
+<i><a href="https://www.sussex.ac.uk/ei/">School of Engineering & Informatics</a></i>
 
 Our research primarily revolves around the principles of control and optimisation in neural processing, exploring how these concepts are manifested in both biological and artificial systems. In particular, we study variational Bayesian methods in the context of control problems. For example, theories such as active inference can provide principled accounts of adaptive behaviour in terms of probabilistic inference.
 

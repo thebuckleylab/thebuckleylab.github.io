@@ -1,7 +1,7 @@
 ---
 layout: page
 title: METATOOL
-description: A computational metapredictive model of cognition for enabling tool invention in robots
+description: Developing a computational model of tool invention in artificial agents based on active inference
 img: assets/img/metatool-project-logo.png
 importance: 2
 category: current

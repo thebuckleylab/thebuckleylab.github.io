@@ -5,7 +5,7 @@ permalink: /projects/
 description: research projects
 nav: true
 nav_order: 2
-display_categories: [current, recent]
+display_categories: [current, previous]
 horizontal: false
 ---
 

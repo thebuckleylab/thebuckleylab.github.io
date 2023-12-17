@@ -5,7 +5,7 @@ description: Data-driven Inference of Models from Embodied Neural Systems In Ver
 img: assets/img/dimensive-project-logo.png
 redirect: https://maguilera.net/projects/DIMENSIVE.html
 importance: 3
-category: recent
+category: previous
 ---
 
 
