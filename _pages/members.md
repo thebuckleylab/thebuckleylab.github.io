@@ -2,12 +2,12 @@
 layout: page
 permalink: /members/
 title: members
-description: The research team
+description: the research team
 nav: true
 nav_order: 5
 ---
 
-PhD opportunities in our lab are available through two different doctoral programmes. Click <a href="https://www.sussex.ac.uk/ccnr/be_ai">here</a> to find out more.
+PhD opportunities in our lab are available through two different doctoral programmes. Click <a href="https://www.sussex.ac.uk/study/phd/doctoral">here</a> to find out more.
 
 <div style="padding: 1em;" class="row justify-content-sm-left">
     <div class="col-sm-4 mt-3 mt-md-0">

@@ -12,4 +12,4 @@ related_posts: false
 
  This work presents a new perspective on attention mechanisms in machine learning, viewing them as inference over potential adjacency structures in a graphical model, thereby unifying various architectures and suggesting modifications. It explores two new mechanisms, extends the application of attention, and links this approach to precision-regulation in Predictive Coding Networks, offering insights for bridging machine learning and neuroscience concepts of attention.
 
- You can find the pre-print of this paper on <i><a href="https://openreview.net/pdf?id=v9EOxGrpwy">arxiv</a></i>
+ You can find the pre-print of this paper <i><a href="https://openreview.net/pdf?id=v9EOxGrpwy">here</a></i>

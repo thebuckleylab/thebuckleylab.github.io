@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 <img src="../assets/img/uni_of_sussex_logo.png" alt="My Image"  width="80" height="80" style="float: left; margin-right: 10px;">
 
-<i>PI: Prof. Christopher Buckley</i>
+<i>PI: Prof. Christopher L. Buckley</i>
 
 <i>School of Engineering & Informatics</i>
 
