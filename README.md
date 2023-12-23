@@ -10,8 +10,8 @@ commands:
 
 - cd to repo
 - gem install bundler -v 2.4.22
-- bundler 2.4.22 install
-- bundler 2.4.22 exec jekyll serve
+- bundler _2.4.22_ install
+- bundler _2.4.22_ exec jekyll serve
 - bin/deploy --user
 
 ###################################################
