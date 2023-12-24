@@ -58,13 +58,14 @@ PhD opportunities in our lab are available through two different doctoral progra
 
 <div style="padding: 1em;" class="row justify-content-sm-left">
     <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/poppy-collis-profile.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/poppy-collis-profile.jpeg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div>
       <p><b>Poppy Collis</b></p>
       <p>PhD Student</p>
       <p>Email: <a href = "mailto: pzc20@sussex.ac.uk"> pzc20@sussex.ac.uk</a></p>
       <p><a href="https://scholar.google.co.uk/citations?hl=en&user=mXPjaYYAAAAJ">Google Scholar</a></p>
+      <p><a href="https://poppycollis.github.io/">Personal website</a></p>
     </div>
     <p>With a background in Neuroscience and Cognitive Science (BSc), Poppy Collis graduated with distinction from a Masters in Artificial Intelligence and Adaptive Systems at the University of Sussex in 2022. Her PhD is funded by UKRI Horizon Europe as part of the MetaTool project led by the Universidad Politécnica De Madrid, which aims to develop a computational model of tool invention in autonomous robotic systems. Her research looks at methods which use approximate Bayesian inference to describe intelligent decision-making in cognitive agents.</p>
 </div>
