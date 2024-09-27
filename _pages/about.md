@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <p><b>Inference and Control in Animals and Machines</b></p>
+subtitle: <p><b>Inference in Minds and Machines</b></p>
 
 profile:
   align: right
